@@ -295,7 +295,7 @@ A full rollout is supported, with potential further analysis on **client balance
 
 To set up the project, install the required libraries using `pip`:  
 
-    pip install pandas numpy matplotlib seaborn plotly statsmodels scipy
+    pip install -r requirements.txt
 
 ---
 
